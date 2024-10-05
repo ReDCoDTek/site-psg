@@ -61,7 +61,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
-
+img {
+    width: 10%; 
+    display: block; 
+    margin: 0 auto; 
+}
 @media (max-width: 600px) {
     header h1 {
         font-size: 2em;
