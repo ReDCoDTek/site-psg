@@ -75,3 +75,11 @@ img {
         margin: 10px 0;
     }
 }
+.image-psg {
+    width: 80%;
+    max-width: 1200px; 
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
